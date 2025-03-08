@@ -1,0 +1,6 @@
+opencv-python
+numpy
+keras
+tensorflow
+PyQt5
+python-vlc
